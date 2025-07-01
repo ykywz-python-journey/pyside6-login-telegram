@@ -1,0 +1,9 @@
+[project]
+name = "pyside6-login-telegram"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "auto-py-to-exe>=2.46.0",
+    "pyside6>=6.9.1",
+]
